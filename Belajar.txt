@@ -1,4 +1,4 @@
 Tujuan
 -kerja keras
 -sangat muda
--jangan pantang menyerah
+ ^semangat ya
